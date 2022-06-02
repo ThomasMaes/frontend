@@ -1,0 +1,4 @@
+{
+	"extends": ["@dlw-mse/tslint-rules"],
+	"rules": {}
+}

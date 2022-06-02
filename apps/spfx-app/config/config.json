@@ -1,0 +1,18 @@
+{
+	"$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+	"version": "2.0",
+	"bundles": {
+		"modern-search": {
+			"components": [
+				{
+					"entrypoint": "./lib/webparts/ModernSearch/ModernSearchWebPart.js",
+					"manifest": "./src/webparts/ModernSearch/ModernSearchWebPart.manifest.json"
+				}
+			]
+		}
+	},
+	"externals": {},
+	"localizedResources": {
+		"ModernSearchWebPartStrings": "lib/webparts/ModernSearch/loc/{locale}.js"
+	}
+}

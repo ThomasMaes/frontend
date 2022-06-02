@@ -1,0 +1,17 @@
+{
+	"blueprint.templatesPath": ["./.templates"],
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"prettier.requireConfig": true,
+	"prettier.useTabs": true,
+	"typescript.tsdk": ".\\node_modules\\typescript\\lib",
+
+	"[xml]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 2
+	}
+}

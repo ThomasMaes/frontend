@@ -1,0 +1,31 @@
+{
+	"$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+	"solution": {
+		"name": "Modern-Search",
+		"id": "ce8fd35f-3afa-45e6-bcac-43151eafd618",
+		"version": "1.0.0.0",
+		"includeClientSideAssets": true,
+		"isDomainIsolated": false,
+		"developer": {
+			"name": "",
+			"websiteUrl": "",
+			"privacyUrl": "",
+			"termsOfUseUrl": "",
+			"mpnId": ""
+		},
+		"metadata": {
+			"shortDescription": {
+				"default": "Modern Search description"
+			},
+			"longDescription": {
+				"default": "Modern Search description"
+			},
+			"screenshotPaths": [],
+			"videoUrl": "",
+			"categories": []
+		}
+	},
+	"paths": {
+		"zippedPackage": "solution/Modern-Search.sppkg"
+	}
+}

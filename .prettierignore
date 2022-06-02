@@ -1,0 +1,13 @@
+# generated or imported files
+package-deps.json
+*.scss.ts
+
+# folders of generated files
+coverage
+dist
+etc
+lib
+lib-amd
+lib-commonjs
+lib-esm
+node_modules
